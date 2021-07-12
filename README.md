@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as a flutter intern in a prestigious company called Gurkha Technology of Nepal.
+- 🔭 I’m currently working as a flutter intern at Gurkha Technology Pvt. Ltd in Nepal.
 - 🌱 I’m currently learning Flutter framwork and dart explosively.
 - 👯 I’m looking to collaborate on hybrid mobile development.
 - 🤔 I’m looking for help with flutter and AI in future.
