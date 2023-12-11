@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on .net MVC and Web API projects.
 - 🤔 I’m looking for help in .net web development, DSAlgo concepts.
 - 💬 Ask me about C#, Java, SQL Server, and Front end queries.
-- 📫 How to reach me: [facebook](https://www.facebook.com/profile.php?id=100009616639628)
+- 📫 How to reach me: [facebook](https://www.facebook.com/profile.php?id=100009616639628),[LinkedIn](https://www.linkedin.com/in/samuel-sherpa-631970212/)
 - 😄 Pronouns: Sam/Samuel
 - ⚡ Fun fact: I like to cook and eat - (especially momos/dumplings) at any time and any day of the year.
