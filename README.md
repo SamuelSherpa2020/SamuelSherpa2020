@@ -10,3 +10,4 @@
 - 📫 How to reach me: [facebook](https://www.facebook.com/profile.php?id=100009616639628),[LinkedIn](https://www.linkedin.com/in/samuelsherpa/)
 - 😄 Pronouns: Sam/Samuel
 - ⚡ Fun fact: I like to cook and eat - (especially momos/dumplings) at any time and any day of the year.
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelSherpa2020)](https://git.io/streak-stats)
