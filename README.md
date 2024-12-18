@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🤗 I'm working as a .Net Developer currently at Asteroid venture Pvt. Ltd.
+- 🤗 I'm working as a .Net Developer currently at Asteroid Venture Pvt. Ltd.
 - 🔭 I am currently completing .Net Course from Udemy and also seeking .Net Role.
 - 🌱 I’m currently working on a .Net MVC framework (for fintech) and Web Api .Net 8 project.
 - 👯 I’m looking to collaborate on .net MVC and Web API projects.
