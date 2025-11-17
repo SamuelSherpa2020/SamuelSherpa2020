@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🤗 I'm currently working as a .Net Developer at Xmartpoint Technologies Pvt. Ltd.
+- 🤗 I'm currently working as a .Net Developer at Asteriod Ventures Pvt. Ltd.
 - 🔭 I am completing a .Net Course from Udemy and seeking a .Net Role.
 - 🌱 I’m currently working on a .Net MVC framework (for fintech) and Web API .Net 8 projects.
 - 👯 I want to collaborate on .net MVC and Web API projects.
 - 🤔 I’m looking to help/learn more about advanced .Net and improving coding approach with minimal and efficient coding.
-- 💬 Ask me about C#, Java, SQL Server, and Front end queries.
+- 💬 Ask me about C#, Java, SQL Server, Psql and Front end.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100009616639628),[LinkedIn](https://www.linkedin.com/in/samuelsherpa/)
 - 😄 Pronouns: Sam/Samuel
 - ⚡ Fun fact: I like to cook and eat - (especially momos/dumplings) at any time and any day of the year.
